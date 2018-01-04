@@ -1,0 +1,18 @@
+[user]
+	email = 
+	name = Adrien Schuler
+
+[alias]
+    cm = commit
+    co = checkout
+    st = status
+    br = branch
+    ru = remote update
+    df = diff --color
+
+[core]
+	pager = diff-so-fancy | less --tabs=4 -RFX
+	excludesfile = ~/.gitignore
+[color]
+	ui = true
+	blame = true

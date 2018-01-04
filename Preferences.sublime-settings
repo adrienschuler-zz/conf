@@ -1,0 +1,24 @@
+{
+	"always_show_minimap_viewport": true,
+	"color_scheme": "Packages/One Dark Material - Theme/schemes/OneDark.tmTheme",
+	"drag_text": false,
+	"ensure_newline_at_eof_on_save": true,
+	"font_size": 12,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"shift_tab_unindent": true,
+	"show_full_path": true,
+	"show_line_endings": true,
+	"theme": "OneDarkMaterial.sublime-theme",
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true,
+	"file_exclude_patterns": [
+		"*.pyc", "*.pyo", "*.exe", "*.dll", "*.obj","*.o", "*.a", "*.lib", "*.so", "*.dylib", "*.ncb", "*.sdf", "*.suo", "*.pdb", "*.idb", ".DS_Store", "*.class", "*.psd", "*.db", "*.sublime-workspace"
+	],
+	"folder_exclude_patterns": [
+		".svn", ".git", ".hg", "__pycache__", "venv"
+	]
+}
