@@ -383,7 +383,7 @@
 	<key>LoadPrefsFromCustomFolder</key>
 	<true/>
 	<key>NSNavLastRootDirectory</key>
-	<string>~/Workspace/conf</string>
+	<string>~/Documents</string>
 	<key>NSNavPanelExpandedSizeForOpenMode</key>
 	<string>{712, 459}</string>
 	<key>NSNavPanelExpandedSizeForSaveMode</key>
@@ -429,15 +429,15 @@
 	<key>NSWindow Frame SUStatusFrame</key>
 	<string>427 1496 400 129 -333 800 1920 1057 </string>
 	<key>NSWindow Frame SUUpdateAlert</key>
-	<string>317 1316 620 392 -333 800 1920 1080 </string>
+	<string>330 288 620 392 0 0 1280 777 </string>
 	<key>NSWindow Frame SessionsPreferences</key>
 	<string>138 74 606 469 0 0 1280 777 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>337 1121 796 473 -333 800 1920 1080 </string>
+	<string>492 237 796 473 0 0 1280 777 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>-333 800 960 1080 -333 800 1920 1080 </string>
+	<string>-333 800 1920 1080 -333 800 1920 1080 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
-	<string>642 302 570 475 0 0 1280 777 </string>
+	<string>-333 800 1920 1080 -333 800 1920 1080 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
 	<string>-333 800 1920 1057 -333 800 1920 1057 </string>
 	<key>New Bookmarks</key>
@@ -1351,7 +1351,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2018-01-03T15:24:49Z</date>
+	<date>2018-06-11T10:06:36Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>ShowBookmarkName</key>
@@ -1370,6 +1370,8 @@
 	<false/>
 	<key>UseLionStyleFullscreen</key>
 	<false/>
+	<key>UseMetal</key>
+	<true/>
 	<key>WindowNumber</key>
 	<true/>
 	<key>WordCharacters</key>
@@ -1381,7 +1383,7 @@
 	<key>findRegex_iTerm</key>
 	<false/>
 	<key>iTerm Version</key>
-	<string>3.1.5</string>
+	<string>3.1.6</string>
 	<key>kCPKSelectionViewPreferredModeKey</key>
 	<integer>0</integer>
 	<key>kCPKSelectionViewShowHSBTextFieldsKey</key>
